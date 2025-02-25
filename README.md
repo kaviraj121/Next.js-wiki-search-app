@@ -16,7 +16,7 @@ A simple Next.js application that allows users to search for Wikipedia articles 
 - **Wikipedia API**: Used to fetch search results and article details.
 
 You can access the live version of the app here:    
-👉 [Wiki Search App Live Demo](https://your-live-site-url.com)
+👉 [Wiki Search App Live Demo](https://next-js-wiki-search-app.vercel.app/)
 
 ---
 
