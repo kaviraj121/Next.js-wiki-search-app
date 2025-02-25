@@ -15,6 +15,12 @@ A simple Next.js application that allows users to search for Wikipedia articles 
 - **Tailwind CSS**: A utility-first CSS framework for styling.
 - **Wikipedia API**: Used to fetch search results and article details.
 
+You can access the live version of the app here:  
+👉 [Wiki Search App Live Demo](You can access the live version of the app here:  
+👉 [Wiki Search App Live Demo](https://your-live-site-url.com))
+
+---
+
 ## Getting Started
 
 ### Prerequisites
